@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?nrd2kf');
-  src:  url('fonts/icomoon.eot?nrd2kf#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?nrd2kf') format('truetype'),
-    url('fonts/icomoon.woff?nrd2kf') format('woff'),
-    url('fonts/icomoon.svg?nrd2kf#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ea5lis');
+  src:  url('fonts/icomoon.eot?ea5lis#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ea5lis') format('truetype'),
+    url('fonts/icomoon.woff?ea5lis') format('woff'),
+    url('fonts/icomoon.svg?ea5lis#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,9 +35,45 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-compass:before {
+  content: "\e949";
+}
 .icon-heart:before {
   content: "\e9da";
 }
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
 .icon-embed2:before {
   content: "\ea80";
+}
+.icon-mail2:before {
+  content: "\ea84";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
 }

@@ -25,10 +25,34 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'phone': '&#xe942;',
+            'telephone': '&#xe942;',
+            'envelop': '&#xe945;',
+            'mail': '&#xe945;',
+            'location': '&#xe947;',
+            'map-marker': '&#xe947;',
+            'location2': '&#xe948;',
+            'map-marker2': '&#xe948;',
+            'compass': '&#xe949;',
+            'direction': '&#xe949;',
             'heart': '&#xe9da;',
             'like': '&#xe9da;',
+            'checkmark': '&#xea10;',
+            'tick': '&#xea10;',
+            'checkmark2': '&#xea11;',
+            'tick2': '&#xea11;',
             'embed2': '&#xea80;',
             'code2': '&#xea80;',
+            'mail3': '&#xea84;',
+            'contact3': '&#xea84;',
+            'facebook': '&#xea90;',
+            'brand10': '&#xea90;',
+            'facebook2': '&#xea91;',
+            'brand11': '&#xea91;',
+            'instagram': '&#xea92;',
+            'brand12': '&#xea92;',
+            'whatsapp': '&#xea93;',
+            'brand13': '&#xea93;',
           '0': 0
         };
         delete icons['0'];
