@@ -1,4 +1,17 @@
-# kostgbw
+# Landing Page Kost Griya Bangun Widadi
 This is the website landing page of the Griya Bangun Widadi boarding house
 
-https://bagussp99.github.io/kostgbw
+## Demo
+<a href="https://bagussp99.github.io/kostgbw/" target="_blank">**Visit Now** ✈️</a>
+
+#### Library
+
+- Boostrap
+- Flaticon
+- Iconmoon
+- Font Awesome
+
+© 2022 BagusSatriaP
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://bagussp.my.id)
+
